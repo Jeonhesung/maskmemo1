@@ -1,0 +1,20 @@
+[0213/131416:WARNING:backend_impl.cc(1946)] Destroying invalid entry.
+[1017/143300:ERROR:cache_util_win.cc(48)] Unable to move the cache: 0
+[1017/143300:ERROR:backend_impl.cc(146)] Unable to move cache folder
+[1017/143300:ERROR:backend_impl.cc(287)] Unable to create cache
+[1017/143406:WARNING:backend_impl.cc(1660)] Messed up entry found.
+[1017/143406:WARNING:backend_impl.cc(1946)] Destroying invalid entry.
+[1017/143613:WARNING:backend_impl.cc(1660)] Messed up entry found.
+[1017/143613:WARNING:backend_impl.cc(1946)] Destroying invalid entry.
+[1017/143817:WARNING:backend_impl.cc(1660)] Messed up entry found.
+[1017/143817:WARNING:backend_impl.cc(1946)] Destroying invalid entry.
+[1017/143955:WARNING:backend_impl.cc(1660)] Messed up entry found.
+[1017/143955:WARNING:backend_impl.cc(1946)] Destroying invalid entry.
+[1017/144140:WARNING:backend_impl.cc(1660)] Messed up entry found.
+[1017/144140:WARNING:backend_impl.cc(1946)] Destroying invalid entry.
+[1017/144624:WARNING:backend_impl.cc(1660)] Messed up entry found.
+[1017/144624:WARNING:backend_impl.cc(1946)] Destroying invalid entry.
+[1017/145708:WARNING:backend_impl.cc(1660)] Messed up entry found.
+[1017/145708:WARNING:backend_impl.cc(1946)] Destroying invalid entry.
+[1017/150227:WARNING:backend_impl.cc(1660)] Messed up entry found.
+[1017/150227:WARNING:backend_impl.cc(1946)] Destroying invalid entry.
